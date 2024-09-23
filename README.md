@@ -1,4 +1,5 @@
 # Projeto Completo da temakeria
+
 -Em primeiro passo fizemos um wireframe de baixa fidelidade do site
 ![Captura de tela 2024-09-23 121040](https://github.com/user-attachments/assets/635c9bae-da26-4f29-a516-6bec7eed4d50)
 
